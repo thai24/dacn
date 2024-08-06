@@ -1,0 +1,359 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "caterory": 2,
+      "brand": 1,
+      "name": "product 1",
+      "image": "product-4.jpg",
+      "size": [
+        1,
+        2
+      ],
+      "color": [
+        1,
+        3,
+        4
+      ],
+      "price": 100,
+      "description": "mo ta",
+      "sold": 20,
+      "quantity": 80,
+      "nComment": 4
+    },
+    {
+      "caterory": 1,
+      "brand": 3,
+      "name": "product 2 update",
+      "image": "product-3.jpg",
+      "description": "mo ta",
+      "price": 100,
+      "size": [],
+      "color": [],
+      "quantity": 80,
+      "id": 2
+    },
+    {
+      "caterory": 2,
+      "brand": 1,
+      "name": "ewwef",
+      "image": "product-1.jpg",
+      "description": "mo ta",
+      "price": 100,
+      "size": [
+        1
+      ],
+      "color": [
+        1,
+        2
+      ],
+      "quantity": 12,
+      "id": 3
+    },
+    {
+      "caterory": 3,
+      "brand": 1,
+      "name": "3w3rgtez",
+      "image": "product-2.jpg",
+      "description": "mo ta",
+      "price": 2,
+      "size": [
+        1,
+        2
+      ],
+      "color": [
+        1
+      ],
+      "quantity": 12,
+      "id": 4
+    },
+    {
+      "caterory": 1,
+      "brand": 1,
+      "name": "dienthoai7",
+      "image": "product-1.jpg",
+      "description": "mo ta",
+      "price": 100,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "caterory": 2,
+      "brand": 2,
+      "name": "dienthoai3",
+      "image": "product-2.jpg",
+      "description": "mo ta",
+      "price": 50,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "caterory": 1,
+      "brand": 1,
+      "name": "dienthoai8",
+      "image": "product-4.jpg",
+      "description": "mo ta",
+      "price": 10,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "caterory": 2,
+      "brand": 2,
+      "name": "dient",
+      "image": "product-3.jpg",
+      "description": "mo ta",
+      "price": 20,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "caterory": 1,
+      "brand": 1,
+      "name": "dienthoai8",
+      "image": "product-1.jpg",
+      "description": "mo ta",
+      "price": 25,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "caterory": 1,
+      "brand": 1,
+      "name": "dienthoai8",
+      "image": "product-3.jpg",
+      "description": "mo ta",
+      "price": 10,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 10
+    },
+    {
+      "caterory": 2,
+      "brand": 3,
+      "name": "dienthovxcvcxai8",
+      "image": "product-4.jpg",
+      "description": "mo ta",
+      "price": 102,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 11
+    },
+    {
+      "caterory": 1,
+      "brand": 1,
+      "name": "loasfdiol",
+      "image": "product-2.jpg",
+      "description": "mo ta",
+      "price": 120,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 12
+    },
+    {
+      "caterory": 3,
+      "brand": 2,
+      "name": "loasfdiol",
+      "image": "product-2.jpg",
+      "description": "mo ta",
+      "price": 10,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 13
+    },
+    {
+      "caterory": 3,
+      "brand": 3,
+      "name": "loasfdiol",
+      "image": "product-2.jpg",
+      "description": "mo ta",
+      "price": 67,
+      "size": [
+        2
+      ],
+      "color": [
+        2
+      ],
+      "quantity": 1,
+      "id": 14
+    }
+  ],
+  "size": [
+    {
+      "id": 1,
+      "name": "XS"
+    },
+    {
+      "id": 2,
+      "name": "S"
+    },
+    {
+      "id": 3,
+      "name": "M"
+    },
+    {
+      "id": 4,
+      "name": "L"
+    },
+    {
+      "id": 5,
+      "name": "XL"
+    }
+  ],
+  "color": [
+    {
+      "id": 1,
+      "name": "yellow"
+    },
+    {
+      "id": 2,
+      "name": "black"
+    },
+    {
+      "id": 3,
+      "name": "blue"
+    },
+    {
+      "id": 4,
+      "name": "white"
+    },
+    {
+      "id": 5,
+      "name": "green"
+    }
+  ],
+  "caterory": [
+    {
+      "id": 1,
+      "name": "quan",
+      "date": "2/2/2022"
+    },
+    {
+      "id": 2,
+      "name": "ao",
+      "date": "2/2/2022"
+    },
+    {
+      "id": 3,
+      "name": "giay",
+      "date": "2/2/2022"
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "name": "dolche",
+      "date": "2/2/2022"
+    },
+    {
+      "id": 2,
+      "name": "gucci",
+      "date": "2/2/2022"
+    },
+    {
+      "id": 3,
+      "name": "juno",
+      "date": "2/2/2022"
+    }
+  ],
+  "users": [
+    {
+      "email": "nguyenvanthai406@gmail.com",
+      "password": "$2a$10$EKZnA5QW3pt7hEXoBhkulOaIs4pnEFFvkjbx5jjLQvvVxUSKYtzi6",
+      "nameUser": "thai12",
+      "cart": [],
+      "role": 2,
+      "id": 1
+    },
+    {
+      "email": "huy123@gmail.com",
+      "password": "$2a$10$gNaoA12jx/jVKszLfOKUSOSWy1FFm5JuhNW.BjNfQHF6u7xrcDiUm",
+      "nameUser": "uhshda12",
+      "role": 1,
+      "id": 2
+    },
+    {
+      "email": "nguyenvanthaj406@gmail.com",
+      "password": "$2a$10$yb0AwpMWxpZrPjbjVihUe.hjgxbimZhM9dDYBfM0FlbTQWU2LqanK",
+      "nameUser": "thai12",
+      "role": 1,
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "cart": {
+        "id": "",
+        "items": [],
+        "isEmpty": true,
+        "totalItems": 0,
+        "totalUniqueItems": 0,
+        "cartTotal": 0
+      },
+      "idUser": 3,
+      "id": 1
+    },
+    {
+      "cart": {
+        "id": "",
+        "items": [],
+        "isEmpty": true,
+        "totalItems": 0,
+        "totalUniqueItems": 0,
+        "cartTotal": 0
+      },
+      "idUser": 1,
+      "id": 2
+    }
+  ]
+}
